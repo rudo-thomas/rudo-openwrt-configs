@@ -1,0 +1,7 @@
+# For each of these, do: ./scripts/feeds install $v
+# The low-level list in package/feeds/packages does *not* match this perfectly.
+# TODO: Write a script to do all this.
+rp-pppoe-client
+screen
+tcpdump
+tinyproxy
